@@ -156,6 +156,7 @@ Recommended repository contents:
 * LC filter implementation
 * PCB/schematic screenshots
 * SPWM waveform analysis
+<img width="1280" height="960" alt="P2pha" src="https://github.com/user-attachments/assets/3df66513-65b1-4280-a9c8-b18cfc34ef4e" />
 
 ---
 
